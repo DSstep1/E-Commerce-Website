@@ -1,0 +1,12 @@
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-commerce-Web-DTO\bin\Debug\net7.0\E-commerce-Web-DTO.deps.json
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-commerce-Web-DTO\bin\Debug\net7.0\E-commerce-Web-DTO.dll
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-commerce-Web-DTO\bin\Debug\net7.0\E-commerce-Web-DTO.pdb
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-commerce-Web-DTO\obj\Debug\net7.0\E-commerce-Web-DTO.csproj.AssemblyReference.cache
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-commerce-Web-DTO\obj\Debug\net7.0\E-commerce-Web-DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-commerce-Web-DTO\obj\Debug\net7.0\E-commerce-Web-DTO.AssemblyInfoInputs.cache
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-commerce-Web-DTO\obj\Debug\net7.0\E-commerce-Web-DTO.AssemblyInfo.cs
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-commerce-Web-DTO\obj\Debug\net7.0\E-commerce-Web-DTO.csproj.CoreCompileInputs.cache
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-commerce-Web-DTO\obj\Debug\net7.0\E-commerce-Web-DTO.dll
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-commerce-Web-DTO\obj\Debug\net7.0\refint\E-commerce-Web-DTO.dll
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-commerce-Web-DTO\obj\Debug\net7.0\E-commerce-Web-DTO.pdb
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-commerce-Web-DTO\obj\Debug\net7.0\ref\E-commerce-Web-DTO.dll

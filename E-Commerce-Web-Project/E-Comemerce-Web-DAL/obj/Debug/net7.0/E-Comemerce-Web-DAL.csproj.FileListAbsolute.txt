@@ -1,0 +1,12 @@
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-Comemerce-Web-DAL\bin\Debug\net7.0\E-Comemerce-Web-DAL.deps.json
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-Comemerce-Web-DAL\bin\Debug\net7.0\E-Comemerce-Web-DAL.dll
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-Comemerce-Web-DAL\bin\Debug\net7.0\E-Comemerce-Web-DAL.pdb
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-Comemerce-Web-DAL\obj\Debug\net7.0\E-Comemerce-Web-DAL.csproj.AssemblyReference.cache
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-Comemerce-Web-DAL\obj\Debug\net7.0\E-Comemerce-Web-DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-Comemerce-Web-DAL\obj\Debug\net7.0\E-Comemerce-Web-DAL.AssemblyInfoInputs.cache
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-Comemerce-Web-DAL\obj\Debug\net7.0\E-Comemerce-Web-DAL.AssemblyInfo.cs
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-Comemerce-Web-DAL\obj\Debug\net7.0\E-Comemerce-Web-DAL.csproj.CoreCompileInputs.cache
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-Comemerce-Web-DAL\obj\Debug\net7.0\E-Comemerce-Web-DAL.dll
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-Comemerce-Web-DAL\obj\Debug\net7.0\refint\E-Comemerce-Web-DAL.dll
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-Comemerce-Web-DAL\obj\Debug\net7.0\E-Comemerce-Web-DAL.pdb
+F:\programireba\E-Commerce-Website\E-Commerce-Web-Project\E-Comemerce-Web-DAL\obj\Debug\net7.0\ref\E-Comemerce-Web-DAL.dll
